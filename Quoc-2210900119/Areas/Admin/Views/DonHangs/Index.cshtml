@@ -1,0 +1,139 @@
+﻿@model IEnumerable<Quoc_2210900119.Models.DonHang>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+    <p>
+        @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-success" })
+    </p>
+    <div class="form-actions">
+        <input type="submit" value="Delete Selected" class="btn btn-danger" />
+    </div>
+</div>
+
+<style>
+    /* Tăng khoảng cách giữa các hàng */
+    .table-custom td, .table-custom th {
+        vertical-align: middle;
+        padding: 12px 15px;
+    }
+
+    /* Hiệu ứng đổ bóng cho hàng */
+    .table-custom tbody tr {
+        transition: box-shadow 0.2s ease-in-out;
+    }
+
+        .table-custom tbody tr:hover {
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            background-color: #d9f2d9; /* Màu nền khi hover đã được giảm nhẹ */
+        }
+
+    /* Hiệu ứng cho nút */
+    .btn-group .btn {
+        transition: transform 0.2s ease;
+    }
+
+        .btn-group .btn:hover {
+            transform: scale(1.05); /* Phóng to nhẹ khi hover */
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+        }
+
+    /* CSS cho phân trang */
+    .pagination {
+        margin-top: 20px; /* Khoảng cách trên */
+    }
+
+        .pagination li {
+            margin: 0 5px; /* Khoảng cách giữa các nút phân trang */
+        }
+
+    .pagination-container {
+        display: flex; /* Sử dụng Flexbox để căn giữa */
+        justify-content: center; /* Căn giữa nội dung */
+        margin-top: 20px; /* Khoảng cách trên */
+    }
+
+    .pagination {
+        display: inline-block; /* Để nội dung trong phân trang hiển thị theo chiều ngang */
+    }
+
+    .current-page {
+        font-weight: bold; /* Làm nổi bật trang hiện tại */
+        margin: 0 10px; /* Khoảng cách giữa các số trang */
+    }
+
+    .page-link {
+        margin: 0 5px; /* Khoảng cách giữa các link trang */
+        text-decoration: none; /* Bỏ gạch chân */
+        color: #007bff; /* Màu cho các link */
+        padding: 8px 12px; /* Khoảng cách bên trong */
+        border: 1px solid #007bff; /* Viền cho các link */
+        border-radius: 4px; /* Bo tròn góc */
+        transition: background-color 0.2s, color 0.2s; /* Hiệu ứng chuyển đổi */
+    }
+
+        .page-link:hover {
+            background-color: #007bff; /* Màu nền khi hover */
+            color: white; /* Màu chữ khi hover */
+        }
+</style>
+
+<table class="table table-success table-striped table-custom">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayDat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TinhTrang)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ThanhToan)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DiaChiNhanHang)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TongTien)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TaiKhoan.HoTen)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayDat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TinhTrang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThanhToan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChiNhanHang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TongTien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TaiKhoan.HoTen)
+            </td>
+            <td>
+                <div class="btn-group" role="group">
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Madon }, new { @class = "btn btn-primary btn-sm" })
+                    @Html.ActionLink("Details", "Details", new { id = item.Madon }, new { @class = "btn btn-info btn-sm" })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Madon }, new { @class = "btn btn-danger btn-sm" })
+                </div>
+            </td>
+        </tr>
+    }
+
+</table>
