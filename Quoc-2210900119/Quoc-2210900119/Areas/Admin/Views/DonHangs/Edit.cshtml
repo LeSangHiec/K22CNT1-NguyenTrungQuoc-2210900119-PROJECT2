@@ -1,0 +1,120 @@
+﻿@model Quoc_2210900119.Models.DonHang
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+<style>
+    /* Nền và phong cách đồng nhất với bảng */
+    .form-horizontal {
+        background-color: #e9f5e9;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+        .form-horizontal h4 {
+            color: #155724;
+            font-weight: bold;
+        }
+
+        .form-horizontal hr {
+            border-top: 2px solid #155724;
+        }
+
+        /* Tạo hiệu ứng nổi cho các ô input khi focus */
+        .form-horizontal .form-control {
+            transition: all 0.3s ease; /* Tạo hiệu ứng mượt */
+            border-radius: 4px;
+        }
+
+            .form-horizontal .form-control:focus {
+                border-color: #28a745;
+                box-shadow: 0 0 8px rgba(40, 167, 69, 0.3); /* Hiệu ứng nổi lên */
+                transform: scale(1.02); /* Phóng to nhẹ khi focus */
+            }
+
+        /* Nút submit với hiệu ứng mượt mà */
+        .form-horizontal .btn-default {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            transition: all 0.3s ease; /* Hiệu ứng chuyển mượt */
+            padding: 8px 16px;
+            border-radius: 5px;
+        }
+
+            .form-horizontal .btn-default:hover {
+                background-color: #218838;
+                transform: scale(1.05); /* Phóng to nhẹ khi hover */
+                box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); /* Tạo đổ bóng khi hover */
+            }
+
+        /* Hiệu ứng nổi bật màu khi hover vào label */
+        .form-horizontal .control-label:hover {
+            color: #218838;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+</style>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <h4>DonHang</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.Madon)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NgayDat, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.NgayDat, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.NgayDat, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.TinhTrang, "TinhTrang", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("TinhTrang", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.TinhTrang, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.DiaChiNhanHang, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.DiaChiNhanHang, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.DiaChiNhanHang, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.MaNguoiDung, "MaNguoiDung", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("MaNguoiDung", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.MaNguoiDung, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.TongTien, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.TongTien, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.TongTien, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-default" />
+            @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+        </div>
+    </div>
+</div>
+}

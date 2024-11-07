@@ -1,0 +1,90 @@
+﻿<!-- Sidebar -->
+<div class="sidebar">
+    <!-- Sidebar user (optional) -->
+    <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+        <div class="image">
+            <img src="~/Content/client/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+        </div>
+        <div class="info">
+            <a href="#" class="d-block">Alexander Quốc</a>
+        </div>
+    </div>
+
+    <!-- SidebarSearch Form -->
+    @*<div class="form-inline">
+        <div class="input-group" data-widget="sidebar-search">
+            <input class="form-control form-control-sidebar" type="search" placeholder="Search" aria-label="Search">
+            <div class="input-group-append">
+                <button class="btn btn-sidebar">
+                    <i class="fas fa-search fa-fw"></i>
+                </button>
+            </div>
+        </div>
+    </div>*@
+
+    <!-- Sidebar Menu -->
+    <nav class="mt-2">
+        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+            <!-- Add icons to the links using the .nav-icon class
+    with font-awesome or any other icon font library -->
+            <li class="nav-item">
+                <a href="~/Admin/DanhMucSanPhams/Index" class="nav-link">
+                    <i class="nav-icon 	fas fa-book"></i>
+                    <p>
+                       Danh mục
+                    </p>
+                </a>
+                </li>
+            <li class="nav-item">
+                <a href="~/Admin/ChiTietDonHangs" class="nav-link">
+                    <i class="nav-icon fas fa-biohazard"></i>
+                    <p>
+                        Quản Lý Đơn Hàng
+                    </p>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="~/Admin/DonHangs" class="nav-link">
+                    <i class="nav-icon fas fa-biohazard"></i>
+                    <p>
+                        Quản Lý Giao Hàng
+                    </p>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="~/Admin/TaiKhoans/Index" class="nav-link">
+                    <i class="nav-icon fas fa-biohazard"></i>
+                    <p>
+                        Quản Lý Tài Khoản   
+                    </p>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link">
+                    <i class="nav-icon fas fa-book"></i>
+                    <p>
+                        Quản Lý Sản Phẩm
+                        <i class=" far fa-circle nav-icon"></i>
+                    </p>
+                </a>
+                <ul class="nav nav-treeview">
+                    <li class="nav-item">
+                        <a href="../../index.html" class="nav-link">
+                            <i class="far fa-circle nav-icon"></i>
+                            <p>Update...</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="~/Admin/SanPhams/Index" class="nav-link">
+                            <i class="far fa-circle nav-icon"></i>
+                            <p>Sản Phẩm</p>
+                        </a>
+                    </li>
+                </ul>
+
+            </li>
+        </ul>
+    </nav>
+    <!-- /.sidebar-menu -->
+</div>
+<!-- /.sidebar -->
