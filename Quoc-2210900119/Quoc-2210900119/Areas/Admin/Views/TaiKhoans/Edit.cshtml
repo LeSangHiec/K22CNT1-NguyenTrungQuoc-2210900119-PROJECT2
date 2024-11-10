@@ -1,0 +1,132 @@
+﻿@model Quoc_2210900119.Models.TaiKhoan
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+
+<style>
+    /* Nền và phong cách đồng nhất với bảng */
+    .form-horizontal {
+        background-color: #e9f5e9;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+        .form-horizontal h4 {
+            color: #155724;
+            font-weight: bold;
+        }
+
+        .form-horizontal hr {
+            border-top: 2px solid #155724;
+        }
+
+        /* Tạo hiệu ứng nổi cho các ô input khi focus */
+        .form-horizontal .form-control {
+            transition: all 0.3s ease; /* Tạo hiệu ứng mượt */
+            border-radius: 4px;
+        }
+
+            .form-horizontal .form-control:focus {
+                border-color: #28a745;
+                box-shadow: 0 0 8px rgba(40, 167, 69, 0.3); /* Hiệu ứng nổi lên */
+                transform: scale(1.02); /* Phóng to nhẹ khi focus */
+            }
+
+        /* Nút submit với hiệu ứng mượt mà */
+        .form-horizontal .btn-default {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            transition: all 0.3s ease; /* Hiệu ứng chuyển mượt */
+            padding: 8px 16px;
+            border-radius: 5px;
+        }
+
+            .form-horizontal .btn-default:hover {
+                background-color: #218838;
+                transform: scale(1.05); /* Phóng to nhẹ khi hover */
+                box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); /* Tạo đổ bóng khi hover */
+            }
+
+        /* Hiệu ứng nổi bật màu khi hover vào label */
+        .form-horizontal .control-label:hover {
+            color: #218838;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+</style>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>TaiKhoan</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.MaNguoiDung)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.HoTen, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.HoTen, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.HoTen, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Dienthoai, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Dienthoai, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Dienthoai, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Matkhau, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Matkhau, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Matkhau, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.IDQuyen, "IDQuyen", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("IDQuyen", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.IDQuyen, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Diachi, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Diachi, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Diachi, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
