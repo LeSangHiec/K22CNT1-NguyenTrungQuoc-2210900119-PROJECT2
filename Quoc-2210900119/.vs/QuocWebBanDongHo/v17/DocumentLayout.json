@@ -3,6 +3,110 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|c:\\users\\admin\\desktop\\web\\k22cnt1-nguyentrungquoc-2210900119-project2-main\\quoc-2210900119\\quoc-2210900119\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\donhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\donhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\donhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\donhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\models\\quocsql1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\models\\quocsql1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\chitietdonhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\chitietdonhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\donhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\donhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\controllers\\chitietdonhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\controllers\\chitietdonhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\chitietdonhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\chitietdonhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\chitietdonhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\chitietdonhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\chitietdonhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\chitietdonhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\taikhoans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\taikhoans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\taikhoans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\taikhoans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\taikhoans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\taikhoans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\views\\giohang\\thanhtoandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\giohang\\thanhtoandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\views\\giohang\\suagiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\giohang\\suagiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\views\\shared\\_layoutclient2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\shared\\_layoutclient2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,26 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|c:\\users\\admin\\desktop\\web\\k22cnt1-nguyentrungquoc-2210900119-project2-main\\quoc-2210900119\\quoc-2210900119\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|c:\\users\\admin\\desktop\\web\\k22cnt1-nguyentrungquoc-2210900119-project2-main\\quoc-2210900119\\quoc-2210900119\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|c:\\users\\admin\\desktop\\web\\k22cnt1-nguyentrungquoc-2210900119-project2-main\\quoc-2210900119\\quoc-2210900119\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,24 +143,8 @@
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\donhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\donhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -91,32 +159,8 @@
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\donhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\donhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|c:\\users\\admin\\desktop\\web\\k22cnt1-nguyentrungquoc-2210900119-project2-main\\quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\donhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\donhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|c:\\users\\admin\\desktop\\web\\k22cnt1-nguyentrungquoc-2210900119-project2-main\\quoc-2210900119\\quoc-2210900119\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|c:\\users\\admin\\desktop\\web\\k22cnt1-nguyentrungquoc-2210900119-project2-main\\quoc-2210900119\\quoc-2210900119\\models\\quocsql1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\models\\quocsql1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\views\\shared\\_layoutclient2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\shared\\_layoutclient2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|c:\\users\\admin\\desktop\\web\\k22cnt1-nguyentrungquoc-2210900119-project2-main\\quoc-2210900119\\quoc-2210900119\\areas\\admin\\controllers\\chitietdonhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\controllers\\chitietdonhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -141,14 +185,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\controllers\\danhmucsanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\controllers\\danhmucsanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\views\\giohang\\suagiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\giohang\\suagiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\views\\giohang\\thanhtoandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\giohang\\thanhtoandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\content\\formlogin\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -179,10 +215,6 @@
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -197,10 +229,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\taikhoans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\taikhoans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\taikhoans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\taikhoans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -243,16 +271,8 @@
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\content\\client\\dist\\js\\adminlte.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\sanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\sanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\taikhoans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\taikhoans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\data\\image\\screenshot 2024-10-08 213046.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
@@ -311,10 +331,6 @@
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\data\\image\\screenshot 2024-09-25 193253.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\areas\\admin\\views\\taikhoans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\areas\\admin\\views\\taikhoans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\quoc-2210900119\\content\\client\\dist\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{E690626A-E680-4D59-B72D-21ED02E0E4D8}|Quoc-2210900119\\Quoc_2210900119.csproj|solutionrelative:quoc-2210900119\\content\\client\\dist\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -334,193 +350,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DonhangsController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Controllers\\DonhangsController.cs",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Controllers\\DonhangsController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Controllers\\DonhangsController.cs",
-              "RelativeToolTip": "Quoc-2210900119\\Controllers\\DonhangsController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowA0AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T07:45:16.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_PartiaSideBar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T13:30:34.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T13:01:13.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GioHang.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\GioHang.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\GioHang\\GioHang.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\GioHang.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Views\\GioHang\\GioHang.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T14:25:09.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GioHangPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\GioHangPartial.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\GioHang\\GioHangPartial.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\GioHangPartial.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Views\\GioHang\\GioHangPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T15:05:42.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Donhangs\\Details.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\Donhangs\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Donhangs\\Details.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Views\\Donhangs\\Details.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T07:27:59.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Donhangs\\Index.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\Donhangs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Donhangs\\Index.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Views\\Donhangs\\Index.cshtml",
-              "ViewState": "AQIAADIAAAAAAAAAAADwv0oAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T07:27:46.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GioHangController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Controllers\\GioHangController.cs",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Controllers\\GioHangController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Controllers\\GioHangController.cs",
-              "RelativeToolTip": "Quoc-2210900119\\Controllers\\GioHangController.cs",
-              "ViewState": "AQIAAJ8AAAAAAAAAAIA7wMMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T14:16:58.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Quoc-2210900119\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAawG0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:17:51.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAACgAAAAAAAAAAAAjwEAAAABzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T13:09:08.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "DonHangsController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Controllers\\DonHangsController.cs",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Controllers\\DonHangsController.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Controllers\\DonHangsController.cs",
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Controllers\\DonHangsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwFcAAAB8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T17:04:06.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T17:04:06.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "Quoc-2210900119\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T15:47:25.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AdminAreaRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:55:50.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "web.config",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\web.config",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\web.config",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\web.config",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-02T07:36:05.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Create.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Create.cshtml",
@@ -528,12 +374,395 @@
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Create.cshtml",
               "ViewState": "AQIAAE0AAAAAAAAAAADwv2QAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T07:19:48.158Z",
+              "WhenOpened": "2024-11-08T07:19:48.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Index.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Index.cshtml",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAowHoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:45:37.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Delete.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Delete.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAGMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:46:34.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:46:22.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Edit.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Edit.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:46:08.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DonhangsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Controllers\\DonhangsController.cs",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Controllers\\DonhangsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Controllers\\DonhangsController.cs",
+              "RelativeToolTip": "Quoc-2210900119\\Controllers\\DonhangsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:45:16.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Controllers\\GioHangController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Quoc-2210900119\\Controllers\\GioHangController.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAlwLgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:16:58.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Donhangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\Donhangs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Donhangs\\Details.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Views\\Donhangs\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:27:59.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Donhangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\Donhangs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Donhangs\\Index.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Views\\Donhangs\\Index.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAADwv0EAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:27:46.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChiTietDonHangsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:05:36.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T06:03:37.792Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "QuocSql1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Models\\QuocSql1.edmx",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Models\\QuocSql1.edmx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Models\\QuocSql1.edmx [Diagram1]",
+              "RelativeToolTip": "Quoc-2210900119\\Models\\QuocSql1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-10T06:23:00.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Models\\DonHang.cs",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Models\\DonHang.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Models\\DonHang.cs",
+              "RelativeToolTip": "Quoc-2210900119\\Models\\DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:23:31.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Delete.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Delete.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T06:14:05.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Details.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Details.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T06:13:39.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Edit.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\ChiTietDonHangs\\Edit.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T06:13:31.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Index.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T10:49:47.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Details.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Details.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T11:14:14.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Delete.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Delete.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T11:12:42.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Index.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Index.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T11:14:55.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThanhToanDonHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:24:20.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SuaGioHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\SuaGioHang.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\GioHang\\SuaGioHang.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\SuaGioHang.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Views\\GioHang\\SuaGioHang.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:24:53.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GioHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\GioHang\\GioHang.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Views\\GioHang\\GioHang.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:25:09.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Delete.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T11:17:06.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_LayoutClient2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Shared\\_LayoutClient2.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\Shared\\_LayoutClient2.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Shared\\_LayoutClient2.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Views\\Shared\\_LayoutClient2.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwv2UAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T11:29:40.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAjwEAAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:09:08.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Quoc-2210900119\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAawG0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:17:51.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GioHangPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\GioHangPartial.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\GioHang\\GioHangPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\GioHangPartial.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Views\\GioHang\\GioHangPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T15:05:42.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:01:13.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_PartiaSideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:30:34.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Quoc-2210900119\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:47:25.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:55:50.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\web.config",
+              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\web.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\web.config",
+              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-02T07:36:05.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Web.config",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Web.config",
@@ -546,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 35,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\Shared\\_Layout.cshtml",
@@ -554,64 +783,11 @@
               "RelativeToolTip": "Quoc-2210900119\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAFEAAAAAAAAAAAAAALwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T13:48:14.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T13:48:14.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Index.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Index.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T14:45:37.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Edit.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T14:46:08.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T14:46:22.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "DonHang.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Models\\DonHang.cs",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Models\\DonHang.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Models\\DonHang.cs",
-              "RelativeToolTip": "Quoc-2210900119\\Models\\DonHang.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwBsAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T07:20:28.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -619,12 +795,11 @@
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T14:41:05.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T14:41:05.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 37,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -632,12 +807,11 @@
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAFEAAAAAAAAAAAAAABcAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T13:05:45.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T13:05:45.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 38,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\Home\\About.cshtml",
@@ -645,50 +819,11 @@
               "RelativeToolTip": "Quoc-2210900119\\Views\\Home\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T13:42:17.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:42:17.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "_LayoutClient2.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Shared\\_LayoutClient2.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\Shared\\_LayoutClient2.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Shared\\_LayoutClient2.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Views\\Shared\\_LayoutClient2.cshtml",
-              "ViewState": "AQIAAEYAAAAAAAAAAADwv2UAAACCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T11:29:40.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "QuocSql1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Models\\QuocSql1.edmx",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Models\\QuocSql1.edmx",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Models\\QuocSql1.edmx [Diagram1]",
-              "RelativeToolTip": "Quoc-2210900119\\Models\\QuocSql1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-11-08T07:04:56.425Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Delete.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DonHangs\\Delete.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T14:46:34.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 39,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Controllers\\HomeController.cs",
@@ -696,25 +831,11 @@
               "RelativeToolTip": "Quoc-2210900119\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:55:19.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T14:55:19.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ChiTietDonHangsController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T07:05:36.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 40,
               "Title": "SanPhamsController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Controllers\\SanPhamsController.cs",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Controllers\\SanPhamsController.cs",
@@ -722,12 +843,11 @@
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Controllers\\SanPhamsController.cs",
               "ViewState": "AQIAAHMAAAAAAAAAAAAcwBEAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T10:49:40.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T10:49:40.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 41,
               "Title": "TaiKhoansController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Controllers\\TaiKhoansController.cs",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Controllers\\TaiKhoansController.cs",
@@ -735,12 +855,11 @@
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Controllers\\TaiKhoansController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T15:06:49.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T15:06:49.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 42,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Controllers\\HomeController.cs",
@@ -748,12 +867,11 @@
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T10:52:39.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T10:52:39.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 43,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\Shared\\Error.cshtml",
@@ -761,12 +879,11 @@
               "RelativeToolTip": "Quoc-2210900119\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T13:08:58.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T13:08:58.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 44,
               "Title": "GioHang.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Models\\GioHang.cs",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Models\\GioHang.cs",
@@ -774,12 +891,11 @@
               "RelativeToolTip": "Quoc-2210900119\\Models\\GioHang.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T14:16:22.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T14:16:22.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 45,
               "Title": "DanhMucSanPhamsController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Controllers\\DanhMucSanPhamsController.cs",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Controllers\\DanhMucSanPhamsController.cs",
@@ -787,492 +903,385 @@
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Controllers\\DanhMucSanPhamsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T14:03:15.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T14:03:15.337Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "SuaGioHang.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\SuaGioHang.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\GioHang\\SuaGioHang.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\SuaGioHang.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Views\\GioHang\\SuaGioHang.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T14:24:53.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ThanhToanDonHang.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\ThanhToanDonHang.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\GioHang\\ThanhToanDonHang.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\GioHang\\ThanhToanDonHang.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Views\\GioHang\\ThanhToanDonHang.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T14:24:20.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 46,
               "Title": "login.js",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\formlogin\\js\\login.js",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Content\\formlogin\\js\\login.js",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\formlogin\\js\\login.js",
               "RelativeToolTip": "Quoc-2210900119\\Content\\formlogin\\js\\login.js",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-07T13:00:53.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T13:00:53.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 47,
               "Title": "Dangky.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\User\\Dangky.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\User\\Dangky.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\User\\Dangky.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Views\\User\\Dangky.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T11:23:44.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T11:23:44.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 51,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\User\\Edit.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\User\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\User\\Edit.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Views\\User\\Edit.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T11:41:15.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T11:41:15.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 49,
               "Title": "Login.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\formlogin\\css\\Login.css",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Content\\formlogin\\css\\Login.css",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\formlogin\\css\\Login.css",
               "RelativeToolTip": "Quoc-2210900119\\Content\\formlogin\\css\\Login.css",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-07T12:59:29.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T12:59:29.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 50,
               "Title": "Register.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\formlogin\\css\\Register.css",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Content\\formlogin\\css\\Register.css",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\formlogin\\css\\Register.css",
               "RelativeToolTip": "Quoc-2210900119\\Content\\formlogin\\css\\Register.css",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-07T13:00:30.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T13:00:30.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 48,
               "Title": "Dangnhap.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\User\\Dangnhap.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\User\\Dangnhap.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\User\\Dangnhap.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Views\\User\\Dangnhap.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T11:21:03.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T11:21:03.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 52,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\User\\Profile.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Views\\User\\Profile.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Views\\User\\Profile.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Views\\User\\Profile.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T11:41:35.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T11:41:35.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Index.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Index.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Index.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T10:49:47.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 53,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T10:49:46.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T10:49:46.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 54,
               "Title": "style2.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\assets\\css\\style2.css",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Content\\assets\\css\\style2.css",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\assets\\css\\style2.css",
               "RelativeToolTip": "Quoc-2210900119\\Content\\assets\\css\\style2.css",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-05T14:38:40.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T14:38:40.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 55,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\assets\\css\\bootstrap.min.css",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Content\\assets\\css\\bootstrap.min.css",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\assets\\css\\bootstrap.min.css",
               "RelativeToolTip": "Quoc-2210900119\\Content\\assets\\css\\bootstrap.min.css",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-04T16:21:53.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T16:21:53.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Index.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Index.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Index.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T11:14:55.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 56,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Edit.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Edit.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Edit.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T11:14:50.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T11:14:50.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 57,
               "Title": "Site.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\Site.css",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Content\\Site.css",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\Site.css",
               "RelativeToolTip": "Quoc-2210900119\\Content\\Site.css",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-04T11:07:10.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T11:07:10.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 58,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Edit.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Edit.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Edit.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T14:08:41.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T14:08:41.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 60,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Index.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Index.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Index.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Index.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T14:07:41.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T14:07:41.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 59,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Delete.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Delete.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Delete.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Delete.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T14:07:32.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T14:07:32.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 63,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Create.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Create.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Create.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Create.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T14:44:32.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T14:44:32.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 61,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Edit.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Edit.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Edit.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T10:49:47.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T10:49:47.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 62,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Details.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Details.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Details.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\DanhMucSanPhams\\Details.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T14:08:48.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T14:08:48.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 64,
               "Title": "daterangepicker.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\client\\plugins\\daterangepicker\\daterangepicker.css",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Content\\client\\plugins\\daterangepicker\\daterangepicker.css",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\client\\plugins\\daterangepicker\\daterangepicker.css",
               "RelativeToolTip": "Quoc-2210900119\\Content\\client\\plugins\\daterangepicker\\daterangepicker.css",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-03T04:10:51.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T04:10:51.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 66,
               "Title": "adminlte.js",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\client\\dist\\js\\adminlte.js",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Content\\client\\dist\\js\\adminlte.js",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\client\\dist\\js\\adminlte.js",
               "RelativeToolTip": "Quoc-2210900119\\Content\\client\\dist\\js\\adminlte.js",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-30T13:03:37.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T13:03:37.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 65,
               "Title": "adminlte.min.js",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\client\\dist\\js\\adminlte.min.js",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Content\\client\\dist\\js\\adminlte.min.js",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\client\\dist\\js\\adminlte.min.js",
               "RelativeToolTip": "Quoc-2210900119\\Content\\client\\dist\\js\\adminlte.min.js",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-30T13:03:34.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T13:03:34.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Delete.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Delete.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T11:17:06.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 68,
               "Title": "Screenshot 2024-10-08 213046.png - PNG [486x619, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-10-08 213046.png",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-10-08 213046.png",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-10-08 213046.png - PNG [486x619, 32 bit, PNG]",
               "RelativeToolTip": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-10-08 213046.png - PNG [486x619, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-02T07:50:14.164Z",
-              "EditorCaption": " - PNG [486x619, 32 bit, PNG]"
+              "WhenOpened": "2024-11-02T07:50:14.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Details.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Details.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Details.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T11:14:14.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 67,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Details.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Details.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Details.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\SanPhams\\Details.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T11:15:32.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T11:15:32.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 70,
               "Title": "Screenshot 2024-10-01 200323.png - PNG [748x124, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-10-01 200323.png",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-10-01 200323.png",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-10-01 200323.png - PNG [748x124, 32 bit, PNG]",
               "RelativeToolTip": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-10-01 200323.png - PNG [748x124, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-02T07:50:12.748Z",
-              "EditorCaption": " - PNG [748x124, 32 bit, PNG]"
+              "WhenOpened": "2024-11-02T07:50:12.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 71,
               "Title": "Screenshot 2024-09-30 214517.png - PNG [1919x1019, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 214517.png",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 214517.png",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 214517.png - PNG [1919x1019, 32 bit, PNG]",
               "RelativeToolTip": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 214517.png - PNG [1919x1019, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-02T07:50:12.282Z",
-              "EditorCaption": " - PNG [1919x1019, 32 bit, PNG]"
+              "WhenOpened": "2024-11-02T07:50:12.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 72,
               "Title": "Screenshot 2024-09-30 211143.png - PNG [901x836, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 211143.png",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 211143.png",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 211143.png - PNG [901x836, 32 bit, PNG]",
               "RelativeToolTip": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 211143.png - PNG [901x836, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-02T07:50:11.829Z",
-              "EditorCaption": " - PNG [901x836, 32 bit, PNG]"
+              "WhenOpened": "2024-11-02T07:50:11.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 73,
               "Title": "Screenshot 2024-09-30 211028.png - PNG [458x327, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 211028.png",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 211028.png",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 211028.png - PNG [458x327, 32 bit, PNG]",
               "RelativeToolTip": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 211028.png - PNG [458x327, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-02T07:50:11.354Z",
-              "EditorCaption": " - PNG [458x327, 32 bit, PNG]"
+              "WhenOpened": "2024-11-02T07:50:11.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 74,
               "Title": "Screenshot 2024-09-30 211010.png - PNG [476x451, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 211010.png",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 211010.png",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 211010.png - PNG [476x451, 32 bit, PNG]",
               "RelativeToolTip": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 211010.png - PNG [476x451, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-02T07:50:10.9Z",
-              "EditorCaption": " - PNG [476x451, 32 bit, PNG]"
+              "WhenOpened": "2024-11-02T07:50:10.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 69,
               "Title": "Screenshot 2024-10-14 185802.png - PNG [554x408, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-10-14 185802.png",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-10-14 185802.png",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-10-14 185802.png - PNG [554x408, 32 bit, PNG]",
               "RelativeToolTip": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-10-14 185802.png - PNG [554x408, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-02T07:34:16.504Z",
-              "EditorCaption": " - PNG [554x408, 32 bit, PNG]"
+              "WhenOpened": "2024-11-02T07:34:16.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 75,
               "Title": "Screenshot 2024-09-30 210929.png - PNG [752x312, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 210929.png",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 210929.png",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 210929.png - PNG [752x312, 32 bit, PNG]",
               "RelativeToolTip": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-30 210929.png - PNG [752x312, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-02T07:50:10.44Z",
-              "EditorCaption": " - PNG [752x312, 32 bit, PNG]"
+              "WhenOpened": "2024-11-02T07:50:10.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 78,
               "Title": "Screenshot 2024-09-21 215634.png - PNG [1355x969, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-21 215634.png",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-21 215634.png",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-21 215634.png - PNG [1355x969, 32 bit, PNG]",
               "RelativeToolTip": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-21 215634.png - PNG [1355x969, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-01T15:38:16.725Z",
-              "EditorCaption": " - PNG [1355x969, 32 bit, PNG]"
+              "WhenOpened": "2024-11-01T15:38:16.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 77,
               "Title": "Screenshot 2024-09-21 215727.png - PNG [1515x683, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-21 215727.png",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-21 215727.png",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-21 215727.png - PNG [1515x683, 32 bit, PNG]",
               "RelativeToolTip": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-21 215727.png - PNG [1515x683, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-01T15:39:18.527Z",
-              "EditorCaption": " - PNG [1515x683, 32 bit, PNG]"
+              "WhenOpened": "2024-11-01T15:39:18.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 76,
               "Title": "Screenshot 2024-09-22 010255.png - PNG [1441x793, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-22 010255.png",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-22 010255.png",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-22 010255.png - PNG [1441x793, 32 bit, PNG]",
               "RelativeToolTip": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-22 010255.png - PNG [1441x793, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-01T15:39:19.237Z",
-              "EditorCaption": " - PNG [1441x793, 32 bit, PNG]"
+              "WhenOpened": "2024-11-01T15:39:19.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 79,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Create.cshtml",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Create.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Create.cshtml",
               "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Create.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T11:10:06.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T11:10:06.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 80,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Quoc-2210900119\\App_Start\\RouteConfig.cs",
@@ -1284,43 +1293,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 81,
               "Title": "Screenshot 2024-09-25 193253.png - PNG [1919x1037, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-25 193253.png",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-25 193253.png",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-25 193253.png - PNG [1919x1037, 32 bit, PNG]",
               "RelativeToolTip": "Quoc-2210900119\\Data\\Image\\Screenshot 2024-09-25 193253.png - PNG [1919x1037, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-01T15:39:20.147Z",
-              "EditorCaption": " - PNG [1919x1037, 32 bit, PNG]"
+              "WhenOpened": "2024-11-01T15:39:20.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Delete.cshtml",
-              "RelativeToolTip": "Quoc-2210900119\\Areas\\Admin\\Views\\TaiKhoans\\Delete.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T11:12:42.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 82,
               "Title": "demo.js",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\client\\dist\\js\\demo.js",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Content\\client\\dist\\js\\demo.js",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Content\\client\\dist\\js\\demo.js",
               "RelativeToolTip": "Quoc-2210900119\\Content\\client\\dist\\js\\demo.js",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-30T13:03:28.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T13:03:28.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 83,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Web.config",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Web.config",
@@ -1332,7 +1327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 84,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\web\\K22CNT1-NguyenTrungQuoc-2210900119-PROJECT2-main\\Quoc-2210900119\\Quoc-2210900119\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Quoc-2210900119\\Areas\\Admin\\Controllers\\HomeController.cs",

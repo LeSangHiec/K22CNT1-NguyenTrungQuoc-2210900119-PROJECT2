@@ -35,6 +35,7 @@
     <Property Name="MaNguoiDung" Type="Int32" />
     <Property Name="TongTien" Type="Decimal" Precision="18" Scale="0" />
     <Property Name="MaSP" Type="Int32" />
+    <Property Name="ThanhToan" Type="Int32" />
     <NavigationProperty Name="ChiTietDonHangs" Relationship="Self.FK_cthd_hd" FromRole="DonHang" ToRole="ChiTietDonHang" />
     <NavigationProperty Name="TinhTrangDonHang" Relationship="Self.FK_donhang_tinhtrang" FromRole="DonHang" ToRole="TinhTrangDonHang" />
     <NavigationProperty Name="TaiKhoan" Relationship="Self.FK_hd_tk" FromRole="DonHang" ToRole="TaiKhoan" />

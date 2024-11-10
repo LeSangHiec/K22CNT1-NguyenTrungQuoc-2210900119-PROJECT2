@@ -27,6 +27,7 @@ namespace Quoc_2210900119.Models
         public Nullable<int> MaNguoiDung { get; set; }
         public Nullable<decimal> TongTien { get; set; }
         public Nullable<int> MaSP { get; set; }
+        public Nullable<int> ThanhToan { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<ChiTietDonHang> ChiTietDonHangs { get; set; }

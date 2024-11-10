@@ -49,7 +49,7 @@ namespace Quoc_2210900119.Areas.Admin.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "CTMaDon,MaDon,MaSP,SoLuong,DonGia,ThanhTien,PhuongThucThanhToan")] ChiTietDonHang chiTietDonHang)
+        public ActionResult Create([Bind(Include = "CTMaDon,MaDon,MaSP,SoLuong,DonGia,ThanhTien")] ChiTietDonHang chiTietDonHang)
         {
             if (ModelState.IsValid)
             {
@@ -85,7 +85,7 @@ namespace Quoc_2210900119.Areas.Admin.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "CTMaDon,MaDon,MaSP,SoLuong,DonGia,ThanhTien,PhuongThucThanhToan")] ChiTietDonHang chiTietDonHang)
+        public ActionResult Edit([Bind(Include = "CTMaDon,MaDon,MaSP,SoLuong,DonGia,ThanhTien")] ChiTietDonHang chiTietDonHang)
         {
             if (ModelState.IsValid)
             {

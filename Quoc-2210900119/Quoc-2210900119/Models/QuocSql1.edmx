@@ -37,6 +37,7 @@
           <Property Name="MaNguoiDung" Type="int" />
           <Property Name="TongTien" Type="decimal" Precision="18" Scale="0" />
           <Property Name="MaSP" Type="int" />
+          <Property Name="ThanhToan" Type="int" />
         </EntityType>
         <EntityType Name="LoaiHang">
           <Key>
@@ -273,6 +274,7 @@
           <Property Name="MaNguoiDung" Type="Int32" />
           <Property Name="TongTien" Type="Decimal" Precision="18" Scale="0" />
           <Property Name="MaSP" Type="Int32" />
+          <Property Name="ThanhToan" Type="Int32" />
           <NavigationProperty Name="ChiTietDonHangs" Relationship="Self.FK_cthd_hd" FromRole="DonHang" ToRole="ChiTietDonHang" />
           <NavigationProperty Name="TinhTrangDonHang" Relationship="Self.FK_donhang_tinhtrang" FromRole="DonHang" ToRole="TinhTrangDonHang" />
           <NavigationProperty Name="TaiKhoan" Relationship="Self.FK_hd_tk" FromRole="DonHang" ToRole="TaiKhoan" />
@@ -521,6 +523,7 @@
                 <ScalarProperty Name="MaNguoiDung" ColumnName="MaNguoiDung" />
                 <ScalarProperty Name="TongTien" ColumnName="TongTien" />
                 <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+                <ScalarProperty Name="ThanhToan" ColumnName="ThanhToan" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

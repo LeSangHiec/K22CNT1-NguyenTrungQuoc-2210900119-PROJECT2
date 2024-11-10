@@ -34,6 +34,7 @@
           <ScalarProperty Name="MaNguoiDung" ColumnName="MaNguoiDung" />
           <ScalarProperty Name="TongTien" ColumnName="TongTien" />
           <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="ThanhToan" ColumnName="ThanhToan" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

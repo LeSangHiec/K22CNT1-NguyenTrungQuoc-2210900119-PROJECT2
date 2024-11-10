@@ -180,7 +180,7 @@ namespace CHBHTH.Controllers
             List<GioHang> gh = LayGioHang();
             ddh.MaNguoiDung = kh.MaNguoiDung;
             ddh.NgayDat = DateTime.Now;
-            ddh.TongTien = ptthanhtoan;
+            ddh.ThanhToan = ptthanhtoan;
             ddh.DiaChiNhanHang = diachinhanhang;
             decimal tongtien = 0;
             foreach (var item in gh)
